@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    background: white;
+}
+ul{
+    width: 100%;
+    margin: 0 0 0 250px;
+    list-style: none;
+}
+nav{
+    width: 100%;
+    overflow: hidden;
+    background: #81C7F8;
+}
+li{
+    float: left;
+}
+li a{
+    width: 100px;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: arial;
+    color: white;
+    text-align: center;
+}
+
+li a:hover{
+    background: black;
+    text-transform: uppercase;
+}
+.logo img{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
