@@ -55,7 +55,7 @@ a{
     background: #81C7F8;
 }
 button:hover{
-    background-color: #FAAF40;
+    background-color: #c91e1e;
 }
 a:hover{
     background-color: #FAAF40;
@@ -154,7 +154,8 @@ textarea{
     margin-bottom: 50px;
 }
 #submit_button:hover{
-    background-color: #FAAF40;
+    background-color: #c91e1e;
+    
 }
 
 footer{
@@ -178,7 +179,7 @@ h5{
     color: black;
 }
 .nav-footer{
-    color: rgb(255, 255, 255);
+    color: cornsilk;
     font-weight: 100;
     text-decoration: none;
     font-size: 0.8em;
@@ -193,7 +194,7 @@ h5{
     padding: 10px 50px;
 }
 .color_orange{
-    color: #032030;
+    color: #000000;
 }
 .icons i{
     display: inline-block;
@@ -219,12 +220,13 @@ h5{
     margin-top: 20px;
     border: none;
     padding: 10px 40px;
-    background-color: #032030;
+    background-color: #070347;
     border-radius: 8px;
     color: white;
 }
 #footerbtn:hover{
-    background-color: #FAAF40;
+    background-color: #c91e1e;
+    
 }
 .fa-facebook-square{
     font-size: 50px;
